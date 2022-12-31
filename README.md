@@ -1,0 +1,1 @@
+This is a small project that I used python to ask a player (user) to guess a number between 0 to 9 for three times. Whenever the player guesses the same number as the secret one hard-coded on this code, they won!
